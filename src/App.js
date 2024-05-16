@@ -6,6 +6,7 @@ import HeadlineCards from "./Components/HeadlineCards";
 function App() {
   return (
     <div>
+      {/*  */}
       <NavBar/>
       <Hero />
       <HeadlineCards/>
